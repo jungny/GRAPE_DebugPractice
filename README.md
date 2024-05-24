@@ -16,3 +16,7 @@ For more details, please refer to the paper.
 ## Brief Description about the Codes
 
 Available at: https://github.com/inmo-jang/GRAPE/blob/master/Fig_7_Visualisation/README.md
+
+
+## News
+* [6 Apr 2024] There is a Python-equivalent code for GRAPE: https://github.com/inmo-jang/pyGRAPE
